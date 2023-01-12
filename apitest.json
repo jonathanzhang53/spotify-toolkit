@@ -1,0 +1,37 @@
+PLAYLIST ITEM
+{
+    "collaborative": False, 
+    "description": "g = genre; l = library; f = feels like; c = compilation; d = dump", 
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0M01Hd2CcwjhCnTFMJWAa2"
+    }, 
+    "href": "https://api.spotify.com/v1/playlists/0M01Hd2CcwjhCnTFMJWAa2", 
+    "id": "0M01Hd2CcwjhCnTFMJWAa2", 
+    "images": [
+        {
+            "height": None, 
+            "url": "https://i.scdn.co/image/ab67706c0000bebb20d5512696323e282f81fd31", 
+            "width": None
+        }
+    ], 
+    "name": "Last Organization: 07/16/2022", 
+    "owner": {
+        "display_name": "Jonathan Zhang", 
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/22yxrpnqslh2ch2s2ls32irwy"
+        }, 
+        "href": "https://api.spotify.com/v1/users/22yxrpnqslh2ch2s2ls32irwy", 
+        "id": "22yxrpnqslh2ch2s2ls32irwy", 
+        "type": "user", 
+        "uri": "spotify:user:22yxrpnqslh2ch2s2ls32irwy"
+    }, 
+    "primary_color": None, 
+    "public": True, 
+    "snapshot_id": "MTAsMzM3NTBhNjJjMTJiMjUyMjhiNjQ3ZDY4ZmJiYTc2Yjk3ZTFlYTNhMg==", 
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0M01Hd2CcwjhCnTFMJWAa2/tracks", 
+        "total": 3
+    }, 
+    "type": "playlist", 
+    "uri": "spotify:playlist:0M01Hd2CcwjhCnTFMJWAa2"
+}
