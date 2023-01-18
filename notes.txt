@@ -4,8 +4,6 @@ In the end I want returned in nice format:
 - songs that have duplicates
 - which playlists contain those songs
 
-Deal with non-track items.
-
 First Call:
 - get all song:playlist data
 - store in json

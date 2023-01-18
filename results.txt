@@ -1,8 +1,26 @@
-Number of playlists: 41
+Number of playlists: 42
 Number of non-track entries: 4
-Total songs: 1807
+Total songs: 1814
 
 Songs Duplicated Across Playlists:
+Ride | 2Z8WuEywRWYTKe1NybPQEW
+	immortalized
+	[g] mainstream pop hits
+Superheroes | 37sINbJZcFdHFAsVNsPq1i
+	immortalized
+	[f] motivational
+Safe And Sound | 6Z8R6UsFuGXGtiIxiD8ISb
+	immortalized
+	[f] relaxation
+Fireflies | 3DamFFqW32WihKkTVlwTYQ
+	immortalized
+	[g] mainstream pop hits
+Viva La Vida | 1mea3bSkSGXuIRvnydlB5b
+	immortalized
+	[g] mainstream pop hits
+Rather Be (feat. Jess Glynne) | 3s4U7OHV7gnj42VV72eSZ6
+	immortalized
+	[g] mainstream pop hits
 May We Meet Again | 6whEouBFLVPdEptbqXoW8c
 	euphoric
 	[c] list of tens
@@ -17,7 +35,7 @@ Love VIP | 2YClnImtfH8LyQAoWxgg1t
 	[g] party anthem
 Black Out Days | 2IWtloZYQDcP8Ashwx8QEF
 	[c] list of tens
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Marry You | 22PMfvdz35fFKYnJyMn077
 	[c] list of tens
 	[f] karaoke
@@ -74,13 +92,13 @@ No Hands (feat. Roscoe Dash & Wale) | 03tqyYWC9Um2ZqU0ZN849H
 	[g] party anthem
 Ni**as In Paris | 4Li2WHPkuyCdtmokzW2007
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Hot N*gga | 19gEmPjfqSZT0ulDRfjl0m
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 679 (feat. Remy Boyz) | 5NQbUaeTEOGdD6hHcre0dZ
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Come Get Her | 1Ser4X0TKttOvo8bgdytTP
 	[c] peen house list
 	[g] party anthem
@@ -119,22 +137,22 @@ Post Malone (feat. RANI) - VIZE Remix | 3mruwwpKfG5NYmnEr6O5Dw
 	[f] mix it mash it
 You Make Me Feel... (feat. Sabi) | 16Of7eeW44kt0a1M0nitHM
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Young, Wild & Free (feat. Bruno Mars) | 5HQVUIKwCEXpe7JIHyY734
 	[c] peen house list
 	[f] relaxation
 No Money | 0gb1J5UrTpzaU1s3nupgCd
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 TiK ToK | 0HPD5WQqrq7wPWR7P7Dw1i
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Break Your Heart | 1CdqVF1ywD0ZO1zXtB9yWa
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Starships | 1oHNvJVbFkexQc0BpQp7Y4
 	[c] peen house list
-	[f] simultaneously operating vehicular transportation
+	[f] yacp
 Memories (feat. Kid Cudi) - 2021 Remix | 59o6ojGNGJOYiVJSzC6Lsa
 	[c] peen house list
 	[f] mix it mash it
