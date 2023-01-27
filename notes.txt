@@ -1,13 +1,6 @@
-Disclude certain playlists.
+TODO:
+- disclude certain playlists
+- put all output files in /data/
 
 In the end I want returned in nice format:
 - songs that have duplicates
-- which playlists contain those songs
-
-First Call:
-- get all song:playlist data
-- store in json
-
-Second Call:
-- read from json file
-- output all analytics

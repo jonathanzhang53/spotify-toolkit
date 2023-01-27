@@ -1,7 +1,3 @@
-# client id: b38ca4ba21994e978786f16b70bce288
-# client secret: 4fb5268d4aa7466ebf78f2ea9fca867f
-# user id: 22yxrpnqslh2ch2s2ls32irwy
-
 import requests
 import sys
 

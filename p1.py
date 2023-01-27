@@ -75,8 +75,8 @@ my_playlists = load_user_playlists(user_id)
 songs = collate_songs_from_playlists(my_playlists)
 
 # WRITE SONGS DEFAULTDICT TO JSON
-with open('songs.json', 'w', encoding = 'utf8') as json_file:
+with open('results/songs.json', 'w', encoding = 'utf8') as json_file:
     json.dump(songs, json_file, ensure_ascii = True)
-with open('playlists.json', 'w', encoding = 'utf8') as json_file:
+with open('results/playlists.json', 'w', encoding = 'utf8') as json_file:
     json.dump(my_playlists, json_file, ensure_ascii = True)
     
